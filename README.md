@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eli Stine</h1>
-<h3 align="center">A programmer and media designer</h3>
-<h3 align="center">I mostly use JS and Python and am learning a bunch at the moment... </h3>
+<h3 align="center">A software engineer, media artist, and composer</h3>
+<h3 align="center">I am currently working at Meta as an Audio Experiences Software Engineer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
