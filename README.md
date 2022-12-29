@@ -15,10 +15,10 @@ I'm currently working at [Meta Reality Labs](https://tech.facebook.com/reality-l
 ## 🛠 Skills
 
 #### Projects
-Audio Plug-in Programming / AR/VR Experience Programming / GUI Design
+> Audio Plug-in Programming / AR/VR Experience Programming / GUI Design
 
 #### Languages
-Max / Javascript / C++ / C# / HTML / CSS
+> Max / Javascript / C++ / C# / HTML / CSS
 
 #### Tools
-REAPER / Processing / Blender / Unity / Matlab / Illustrator / Photoshop
+> REAPER / Processing / Blender / Unity / Matlab / Illustrator / Photoshop
