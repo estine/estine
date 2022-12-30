@@ -18,7 +18,7 @@ I'm currently working at [Meta Reality Labs](https://tech.facebook.com/reality-l
 - Audio Plug-in Programming / AR/VR Experience Programming / GUI Design
 
 #### Languages
-- Max / Javascript / C++ / C# / Processing / HTML / CSS
+- Max / Javascript / Node.js / C++ / C# / Processing / HTML / CSS
 
 #### Tools
 - REAPER / Ableton Live / Blender / Unity / Matlab / Illustrator / Photoshop
