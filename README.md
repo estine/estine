@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Software Engineer, Media Designer, and Composer. I'm passionate about computer sound, spatial audio, and biologically informed software design (including machine learning/AI).
+I'm a Software Engineer, Media Designer, and Composer. I'm passionate about computer sound, spatial audio, and biologically informed software design (including ML/AI).
 
 I'm currently working at [Meta Reality Labs](https://tech.facebook.com/reality-labs/) as a Software Engineer III, building audio experiences. Prior to that, I was a Professor of Computer Music & Digital Arts at Oberlin Conservatory. More information about me may be found [here](http://www.elistine.com/about).
 ## 🔗 Links
