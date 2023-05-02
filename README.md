@@ -11,6 +11,7 @@ I'm currently working at [Meta Reality Labs](https://tech.facebook.com/reality-l
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elistine/)
 [![diss](https://img.shields.io/badge/thesis-00C2?style=for-the-badge&logo=leaflet&logoColor=white)](https://www.elistine.com/diss)
 
+When I'm not making music or coding, I enjoy exercising, [learning about different electronic musics](https://www.elistine.com/production), and [reading](https://www.goodreads.com/elistine).
 
 ## 🛠 Skills
 
