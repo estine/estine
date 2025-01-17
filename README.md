@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a Media Artist, Software Engineer and Educator. I'm passionate about computer sound, spatial audio, and biologically informed software design (including ML/AI).
 
-I'm currently an Assistant Professor of Computer Music & Digital Arts at Oberlin Conservatory. Prior to that, I worked at [Meta Reality Labs](https://tech.facebook.com/reality-labs/) as a Software Engineer IV, building audio experiences in Research Audio. More information about me, including resume and CV, may be found [here](http://www.elistine.com/about).
+I'm currently an Assistant Professor of Computer Music & Digital Arts at [Oberlin Conservatory](https://timara.oberlin.edu). Prior to that, I worked at [Meta Reality Labs](https://tech.facebook.com/reality-labs/) as a Software Engineer IV, building audio experiences in Research Audio. More information about me, including resume and CV, may be found [here](http://www.elistine.com/about).
 
 When I'm not making music or coding, I enjoy exercising, tea, [learning about different electronic musics](https://www.elistine.com/production), and [reading](https://www.goodreads.com/elistine).
 
