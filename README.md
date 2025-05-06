@@ -7,7 +7,7 @@ I'm a Media Artist, Software Engineer and Educator. I'm passionate about compute
 
 I'm currently an Assistant Professor of Computer Music & Digital Arts at [Oberlin Conservatory](https://timara.oberlin.edu). Prior to that, I worked at [Meta Reality Labs](https://tech.facebook.com/reality-labs/) as a Software Engineer IV, building audio experiences in Research Audio. More information about me, including resume and CV, may be found [here](http://www.elistine.com/about).
 
-When I'm not making music or coding, I enjoy exercising, tea, [learning about different electronic musics](https://www.elistine.com/production), and [reading](https://www.goodreads.com/elistine).
+When I'm not making music or coding, I enjoy exercising, [tea](https://docs.google.com/spreadsheets/d/110OfV_2RE8n4ADIH7hrX2sOEZpeDj2fXn96plCDSLwg/edit?usp=sharing), [learning about different electronic musics](https://www.elistine.com/production), and [reading](https://www.goodreads.com/elistine).
 
 ## 🔗 Links
 [![website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=squarespace&logoColor=white)](https://elistine.com)
